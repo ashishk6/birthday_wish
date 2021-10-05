@@ -50,3 +50,5 @@ B. If username’s birthday is today:
 - We should to keep proper health check to test the liveness of the application else should be alerted.
 - We can configure prometheus and grafana based monitoring service to check the load on the application.
 
+
+> Note: I have writted few test cases to test the application
