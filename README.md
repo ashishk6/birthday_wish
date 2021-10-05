@@ -52,3 +52,52 @@ B. If username’s birthday is today:
 
 
 > Note: I have writted few test cases to test the application
+
+
+### Steps to execute locally
+```
+pip install -r requirements.txt
+python birthday.py
+```
+- This will run the application in port 5000
+```
+2021-10-05 21:07:08,290 - birthday - INFO -  Users: [{'userName': 'ashish', 'dateOfBirth': '2021-10-4'}, {'userName': 'ashish0', 'dateOfBirth': '2021-10-3'}, {'userName': 'ashish1', 'dateOfBirth': '2021-10-10'}]
+2021-10-05 21:07:08,296 - birthday - INFO - Next birth: 2022-10-04 00:00:00
+2021-10-05 21:07:08,296 - birthday - INFO - days left for next birthday: 364
+2021-10-05 21:07:08,297 - birthday - INFO - Today: 2021-10-05 00:00:00
+172.17.0.1 - - [05/Oct/2021 21:07:08] "GET /hello/ashish HTTP/1.1" 200 -
+2021-10-05 21:07:08,309 - birthday - INFO -  Users: [{'userName': 'ashish', 'dateOfBirth': '2021-10-4'}, {'userName': 'ashish0', 'dateOfBirth': '2021-10-3'}, {'userName': 'ashish1', 'dateOfBirth': '2021-10-10'}]
+2021-10-05 21:07:08,310 - birthday - INFO - Next birth: 2022-10-04 00:00:00
+2021-10-05 21:07:08,310 - birthday - INFO - days left for next birthday: 364
+2021-10-05 21:07:08,310 - birthday - INFO - Today: 2021-10-05 00:00:00
+172.17.0.1 - - [05/Oct/2021 21:07:08] "GET /hello/ashish HTTP/1.1" 200 -
+2021-10-05 21:07:08,318 - birthday - INFO -  Users: [{'userName': 'ashish', 'dateOfBirth': '2021-10-4'}, {'userName': 'ashish0', 'dateOfBirth': '2021-10-3'}, {'userName': 'ashish1', 'dateOfBirth': '2021-10-10'}]
+2021-10-05 21:07:08,319 - birthday - INFO - Next birth: 2022-10-04 00:00:00
+2021-10-05 21:07:08,319 - birthday - INFO - days left for next birthday: 364
+2021-10-05 21:07:08,319 - birthday - INFO - Today: 2021-10-05 00:00:00
+172.17.0.1 - - [05/Oct/2021 21:07:08] "GET /hello/ashish HTTP/1.1" 200 -
+```
+
+- To test the application:
+```
+(base) ashishkumar@Ashishs-MBP birthday_wish % pytest test_case.py -v
+==================================================== test session starts =====================================================
+platform darwin -- Python 3.8.3, pytest-5.4.3, py-1.9.0, pluggy-0.13.1 -- /Users/ashishkumar/opt/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/ashishkumar/Documents/python/revoult/birthday_wish
+collected 3 items                                                                                                            
+
+test_case.py::test_get_check_status_code_equals_200 PASSED                                                             [ 33%]
+test_case.py::test_get_check_content_type_equals_json PASSED                                                           [ 66%]
+test_case.py::test_get_check_hello_in_response PASSED                                                                  [100%]
+
+===================================================== 3 passed in 0.18s ======================================================
+```
+
+### Steps to execute container
+
+```
+docker build -t birthday .
+docker run  --rm -p 5000:5000 birthday
+```
+- We can run this on any container platform such as Kubernetes, Openshift, EKS, AKS, etc.
