@@ -1,0 +1,46 @@
+2021-10-10 21:32:49,336 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,342 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,349 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,356 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,362 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,362 - birthday - INFO - Dictionary: {'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}
+2021-10-10 21:32:49,368 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,371 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,371 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,371 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,377 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,377 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,377 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,377 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,384 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,385 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,385 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,385 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,390 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,391 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,391 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,391 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,397 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,403 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,404 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,404 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,404 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,411 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,411 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,411 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,411 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,418 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,418 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,418 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,418 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,424 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,424 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 21:32:49,424 - birthday - INFO - days left for next birthday: 86
+2021-10-10 21:32:49,424 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 21:32:49,431 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,435 - birthday - INFO -  Users: [{'userName': 'pxdyho', 'dateOfBirth': '2001-1-04'}]
+2021-10-10 21:32:49,435 - birthday - INFO - Dictionary: {'message': 'User pxdyho! has been deleted successfully !'}
+2021-10-10 21:32:49,442 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,448 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,454 - birthday - INFO -  Users: []
+2021-10-10 21:32:49,461 - birthday - INFO -  Users: []

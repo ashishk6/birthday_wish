@@ -1,0 +1,145 @@
+2021-10-10 12:39:09,534 - birthday - INFO -  Table has been created successfully!!
+2021-10-10 12:39:09,535 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,550 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,554 - birthday - INFO -  User: None
+2021-10-10 12:39:09,554 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,554 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:09,574 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,589 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,592 - birthday - INFO -  User: None
+2021-10-10 12:39:09,593 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,593 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:09,612 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,624 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,628 - birthday - INFO -  User: None
+2021-10-10 12:39:09,628 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,628 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:09,647 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,659 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,662 - birthday - INFO -  User: None
+2021-10-10 12:39:09,662 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,662 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:09,681 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,693 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,697 - birthday - INFO -  User: None
+2021-10-10 12:39:09,697 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,708 - birthday - INFO - Inserting record for okrpbm
+2021-10-10 12:39:09,713 - birthday - INFO - 1 Record Inserted successfully
+2021-10-10 12:39:09,713 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,713 - birthday - INFO - New User details: {'userName': 'okrpbm', 'dateOfBirth': '2001-1-04'}
+2021-10-10 12:39:09,731 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,743 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,746 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,746 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,749 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,749 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:09,749 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:09,749 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,749 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:09,766 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,782 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,786 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,786 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,787 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,787 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:09,787 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:09,787 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,787 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:09,807 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,823 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,827 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,828 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,828 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,828 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:09,828 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:09,828 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,828 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:09,847 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,865 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,868 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,869 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,869 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,869 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:09,869 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:09,869 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,869 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:09,887 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,900 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,904 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,904 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,915 - birthday - INFO - Updating record for okrpbm
+2021-10-10 12:39:09,921 - birthday - INFO - 1 Record Updated successfully
+2021-10-10 12:39:09,921 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,921 - birthday - INFO - Updated User details: {'userName': 'okrpbm', 'dateOfBirth': '2001-1-04'}
+2021-10-10 12:39:09,937 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,949 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,952 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,953 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,953 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,953 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:09,953 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:09,953 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,953 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:09,970 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,984 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:09,987 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:09,987 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:09,988 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,988 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:09,988 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:09,988 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:09,988 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:10,006 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,018 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,022 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:10,022 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,022 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:10,023 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:10,023 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:10,023 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:10,023 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:10,043 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,056 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,059 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:10,059 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,059 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:10,059 - birthday - INFO - Next birth: 2022-01-04 00:00:00
+2021-10-10 12:39:10,060 - birthday - INFO - days left for next birthday: 86
+2021-10-10 12:39:10,060 - birthday - INFO - Today: 2021-10-10 00:00:00
+2021-10-10 12:39:10,060 - birthday - INFO - {'message': 'Hello, okrpbm! Your birthday is in 86 day(s)'}
+2021-10-10 12:39:10,076 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,089 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,093 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:10,093 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,104 - birthday - INFO - Updating record for okrpbm
+2021-10-10 12:39:10,112 - birthday - INFO - 1 Record Updated successfully
+2021-10-10 12:39:10,112 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,112 - birthday - INFO - Updated User details: {'userName': 'okrpbm', 'dateOfBirth': '2001-1-04'}
+2021-10-10 12:39:10,125 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,135 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,138 - birthday - INFO -  User: ('okrpbm', datetime.date(2001, 1, 4))
+2021-10-10 12:39:10,138 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,148 - birthday - INFO - Deleting record for okrpbm
+2021-10-10 12:39:10,152 - birthday - INFO - 1 Record Deleted successfully
+2021-10-10 12:39:10,152 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,153 - birthday - INFO - {'message': 'User okrpbm! with dob 2001-01-04 has been deleted successfully!'}
+2021-10-10 12:39:10,167 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,178 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,181 - birthday - INFO -  User: None
+2021-10-10 12:39:10,181 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,181 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:10,199 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,210 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,213 - birthday - INFO -  User: None
+2021-10-10 12:39:10,213 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,214 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:10,230 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,242 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,245 - birthday - INFO -  User: None
+2021-10-10 12:39:10,245 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,245 - birthday - INFO - {'message': 'okrpbm! does not exists !'}
+2021-10-10 12:39:10,262 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,274 - birthday - INFO - Fetching record for okrpbm
+2021-10-10 12:39:10,277 - birthday - INFO -  User: None
+2021-10-10 12:39:10,277 - birthday - INFO - PostgreSQL connection is closed
+2021-10-10 12:39:10,277 - birthday - INFO - {'message': 'okrpbm! does not exists !'}

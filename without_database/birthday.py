@@ -28,9 +28,6 @@ app = Flask(__name__)
 date_format = "%Y-%m-%d"
 
 users=[
-   { "userName": "ashish","dateOfBirth": "2021-10-4" },
-   { "userName": "ashish0","dateOfBirth": "2021-10-3" },
-   { "userName": "ashish1","dateOfBirth": "2021-10-10" }
     ]
 def getUserIndex(username):
     logger.info(' Users: {}'.format(users))
@@ -42,6 +39,21 @@ def getUserIndex(username):
             index=i
     return  index
     
+@app.route("/hello/<username>", methods=["DELETE"])
+def deleteUser(username):
+    #print(users)
+    my_dict = {}
+    index=getUserIndex(username)
+    if index==-1:
+        my_dict['message']="{}! does not exists !".format(username)
+    else:
+        my_dict['message']="User {}! has been deleted successfully !".format(username)
+        users.pop(index)
+        logger.info('Dictionary: {}'.format(my_dict))
+
+    return jsonify(my_dict), 200
+
+
 @app.route("/hello/<username>", methods=["PUT"])
 def InsertupdateUser(username):
     #print(users)
